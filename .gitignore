@@ -1,3 +1,5 @@
 venv
 *.pyc
 .vscode
+.sqlite3
+modeling/txt_sentoken/
